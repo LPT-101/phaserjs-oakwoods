@@ -1,11 +1,9 @@
 {
-  "name": "vibe-oak-woods",
-  "version": "1.0.0",
+  "name": "oakwoods-baseline",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "build": "vite build"
   },
   "dependencies": {
     "phaser": "^3.90.0"

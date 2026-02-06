@@ -118,7 +118,7 @@
           "endFrame": 5,
           "frameRate": 8,
           "repeat": -1,
-          "notes": "Frames 6-7 are empty"
+          "notes": "Frames 6-7 are blank"
         },
         {
           "key": "char-blue-attack",
@@ -127,48 +127,32 @@
           "endFrame": 13,
           "frameRate": 12,
           "repeat": 0,
-          "notes": "Frames 14-15 are empty"
+          "notes": "Frames 14-15 are blank"
         },
         {
           "key": "char-blue-run",
           "description": "Running animation",
           "startFrame": 16,
-          "endFrame": 21,
+          "endFrame": 23,
           "frameRate": 10,
-          "repeat": -1,
-          "notes": "Frames 22-23 are empty"
+          "repeat": -1
         },
         {
           "key": "char-blue-jump",
           "description": "Jump animation",
-          "startFrame": 28,
-          "endFrame": 31,
+          "startFrame": 24,
+          "endFrame": 39,
           "frameRate": 10,
-          "repeat": 0
-        },
-        {
-          "key": "char-blue-fall",
-          "description": "Falling animation",
-          "startFrame": 35,
-          "endFrame": 37,
-          "frameRate": 10,
-          "repeat": 0
-        },
-        {
-          "key": "char-blue-roll",
-          "description": "Roll/dodge animation",
-          "startFrame": 42,
-          "endFrame": 48,
-          "frameRate": 12,
           "repeat": 0
         },
         {
           "key": "char-blue-death",
           "description": "Death animation",
-          "startFrame": 49,
-          "endFrame": 55,
+          "startFrame": 40,
+          "endFrame": 51,
           "frameRate": 8,
-          "repeat": 0
+          "repeat": 0,
+          "notes": "Frames 52-55 are blank"
         }
       ]
     },

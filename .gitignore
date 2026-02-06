@@ -19,6 +19,7 @@ Thumbs.db
 npm-debug.log*
 
 # Claude Code exports
+tmpclaude-*
 
 # Environment
 .env

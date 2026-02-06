@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(phaser-gamedev)",
+      "Bash(node -e:*)",
+      "Bash(node:*)"
+    ]
+  }
+}
